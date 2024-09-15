@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ionic.ionic",
+        "solidjs-community.solid-snippets",
+        "dbaeumer.vscode-eslint",
+        "biomejs.biome"
+    ]
+}

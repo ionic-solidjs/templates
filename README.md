@@ -1,2 +1,2 @@
-# templates
-Project templates with ionic-solidjs
+# @ionic-solidjs Templates
+

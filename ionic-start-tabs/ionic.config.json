@@ -1,0 +1,7 @@
+{
+  "name": "IonicStartTabsTemplate",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "solidjs-vite"
+}

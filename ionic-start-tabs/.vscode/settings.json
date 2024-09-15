@@ -1,0 +1,8 @@
+{
+	"editor.formatOnSave": true,
+	"editor.defaultFormatter": "biomejs.biome",
+	"eslint.codeActionsOnSave.mode": "all",
+	"eslint.format.enable": false,
+	"eslint.useFlatConfig": true,
+	"typescript.tsdk": "./node_modules/typescript/lib"
+}
